@@ -6,12 +6,19 @@ AUTHOR = 'Will Dampier'
 SITENAME = 'HIV CRISPR Cards'
 SITEURL = ''
 
+TAGS_SAVE_AS = ''
+TAG_SAVE_AS = ''
+
 PATH = 'content'
 OUTPUT_PATH = 'docs'
 
 TIMEZONE = 'America/New_York'
 
 DEFAULT_LANG = 'en'
+
+TEMPLATE_PAGES = {'guide.html': 'docs/theme/templates/guide.html',
+                  }
+
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
