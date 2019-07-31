@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Will Dampier'
 SITENAME = 'HIV CRISPR Cards'
-SITEURL = ''
+SITEURL = 'https://damlabresources.github.io/hiv-crispr-cards/'
 
 TAGS_SAVE_AS = ''
 TAG_SAVE_AS = ''
