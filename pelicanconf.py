@@ -5,9 +5,12 @@ from __future__ import unicode_literals
 AUTHOR = 'Will Dampier'
 SITENAME = 'HIV CRISPR Cards'
 SITEURL = 'https://damlabresources.github.io/hiv-crispr-cards/'
+THEME_STATIC_DIR = 'theme'
+CSS_FILE = 'main.css'
 
 TAGS_SAVE_AS = ''
 TAG_SAVE_AS = ''
+RELATIVE_URLS = True
 
 PATH = 'content'
 OUTPUT_PATH = 'docs'
