@@ -123,15 +123,16 @@ def gh_pages(c):
 @task
 def load_genome_data(c):
 
-    #c.run('samtools faidx data/HXB2.fna')
-    #c.run('cp data/HXB2.fna* docs/hxb2/')
+    c.run('samtools faidx data/HXB2.fna')
+    c.run('cp data/HXB2.fna* docs/hxb2/')
 
     processing_functions.make_gff_from_extraannot('data/gRNAList-extraannot.xlsx',
                                                   'data/grna.gff')
-
-    c.run('bgzip data/grna.gff')
+    c.run('bgzip -cf data/grna.gff > data/grna.gff.gz')
     c.run('tabix -p gff data/grna.gff.gz')
     c.run('cp data/grna.gff.gz* docs/hxb2/')
 
-
+    c.run('bgzip -cf data/HXB2.sorted.gff > data/HXB2.sorted.gff.gz')
+    c.run('tabix -p gff data/HXB2.sorted.gff.gz')
+    c.run('cp data/HXB2.sorted.gff* docs/hxb2/')
 

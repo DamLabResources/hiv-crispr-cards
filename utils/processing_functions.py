@@ -30,7 +30,7 @@ def make_gff_from_extraannot(in_path, out_path):
         writer = csv.DictWriter(handle, fields, delimiter = '\t')
 
         for _, row in data.iterrows():
-            info = {'chrom':'HXB2',
+            info = {'chrom':'K03455.1',
                     'source': '.',
                     'start': int(row['Start']),
                     'end': int(row['Stop'])}
