@@ -2,7 +2,51 @@
 
 {% block title %}{{ article.title }}{% endblock %}
 
+{% block extra_head %}
+<style>
+
+
+    .jbrowse {
+      /*height: 600px;*/
+      /*width: 600px;*/
+      padding: 0;
+      margin-left: 5em
+    }
+</style>
+{% endblock %}
+
+
 {% block content %}
+
+<script type="text/javascript" src="dist/main.bundle.js" charset="utf-8"></script>
+
+
+
+
+
+ <!-- <div style="padding: 0 1em; margin: 1em 0; border: 1px solid black">
+    <h1>Volvox JBrowse Embedded in a <code>div</code></h1>
+    <div
+      class="jbrowse"
+      id="GenomeBrowser"
+      data-config='
+        "baseUrl": "hxb2",
+        "dataRoot": "hxb2",
+        "show_nav": false,
+        "show_tracklist": false,
+        "show_overview": false,
+        "update_browser_title": false,
+        "updateBrowserURL": false
+      '
+    >
+      <div id="LoadingScreen" style="padding: 50px;">
+        <h1>Loading...</h1>
+      </div>
+    </div>
+  </div>-->
+
+
+
 <div class="row">
  <div class="col-md-8">
   <h1>{{ article.title }}</h1>
@@ -10,4 +54,18 @@
   HXB2: {{ article.hxb2_start }} - {{ article.hxb2_stop }}
  </div>
 </div>
+
+
+<div style="padding: 0 1em; margin: 1em 0; border: 1px solid black">
+    <h1>JBrowse Instance</h1>
+    <div class="jbrowse" id="GenomeBrowser">
+      <div id="LoadingScreen" style="padding: 50px;">
+        <h1>Loading...</h1>
+      </div>
+    </div>
+</div>
+
+<p>And some more stuff down here.</p>
+
+
 {% endblock %}

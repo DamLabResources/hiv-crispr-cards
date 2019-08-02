@@ -9,6 +9,7 @@ from invoke import task
 from invoke.util import cd
 from pelican.server import ComplexHTTPRequestHandler, RootedHTTPServer
 from pelican.settings import DEFAULT_CONFIG, get_settings_from_file
+from utils import processing_functions
 
 SETTINGS_FILE_BASE = 'pelicanconf.py'
 SETTINGS = {}
@@ -117,3 +118,20 @@ def gh_pages(c):
     c.run('ghp-import -b {github_pages_branch} '
           '-m {commit_message} '
           '{deploy_path} -p'.format(**CONFIG))
+
+
+@task
+def load_genome_data(c):
+
+    #c.run('samtools faidx data/HXB2.fna')
+    #c.run('cp data/HXB2.fna* docs/hxb2/')
+
+    processing_functions.make_gff_from_extraannot('data/gRNAList-extraannot.xlsx',
+                                                  'data/grna.gff')
+
+    c.run('bgzip data/grna.gff')
+    c.run('tabix -p gff data/grna.gff.gz')
+    c.run('cp data/grna.gff.gz* docs/hxb2/')
+
+
+
