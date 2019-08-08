@@ -4,6 +4,7 @@ import os
 import shutil
 import sys
 import datetime
+import time
 
 from invoke import task
 from invoke.util import cd
@@ -136,3 +137,22 @@ def load_genome_data(c):
     c.run('tabix -p gff data/HXB2.sorted.gff.gz')
     c.run('cp data/HXB2.sorted.gff* docs/hxb2/')
 
+
+@task
+def process_papers(c):
+    import pandas as pd
+    import yaml
+
+    path = 'data/gRNAList-extraannot.xlsx'
+    data = pd.read_excel(path)
+
+    papers = data['Citation'].dropna().unique()
+
+    for pmid in papers:
+        out_path = os.path.join('content/papers/', 'PMID%i.yaml' % pmid)
+        if not os.path.exists(out_path):
+            print('Processing PMID:', pmid)
+            paper_info = processing_functions.process_pmid(pmid)
+            with open(out_path, 'w') as handle:
+                yaml.dump(paper_info, stream = handle, indent=4)
+            time.sleep(3)
