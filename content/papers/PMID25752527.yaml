@@ -1,0 +1,61 @@
+Abstract: 'To combat hostile viruses, bacteria and archaea have evolved a unique antiviral
+    defense system composed of clustered regularly interspaced short palindromic repeats
+    (CRISPRs), together with CRISPR-associated genes (Cas). The CRISPR/Cas9 system
+    develops an adaptive immune resistance to foreign plasmids and viruses by creating
+    site-specific DNA double-stranded breaks (DSBs). Here we adapt the CRISPR/Cas9
+    system to human cells for intracellular defense against foreign DNA and viruses.
+    Using HIV-1 infection as a model, our results demonstrate that the CRISPR/Cas9
+    system disrupts latently integrated viral genome and provides long-term adaptive
+    defense against new viral infection, expression and replication in human cells.
+    We show that engineered human-induced pluripotent stem cells stably expressing
+    HIV-targeted CRISPR/Cas9 can be efficiently differentiated into HIV reservoir
+    cell types and maintain their resistance to HIV-1 challenge. These results unveil
+    the potential of the CRISPR/Cas9 system as a new therapeutic strategy against
+    viral infections. '
+AuthorList:
+-   ForeName: Hsin-Kai
+    Initials: HK
+    LastName: Liao
+-   ForeName: Ying
+    Initials: Y
+    LastName: Gu
+-   ForeName: Arturo
+    Initials: A
+    LastName: Diaz
+-   ForeName: John
+    Initials: J
+    LastName: Marlett
+-   ForeName: Yuta
+    Initials: Y
+    LastName: Takahashi
+-   ForeName: Mo
+    Initials: M
+    LastName: Li
+-   ForeName: Keiichiro
+    Initials: K
+    LastName: Suzuki
+-   ForeName: Ruo
+    Initials: R
+    LastName: Xu
+-   ForeName: Tomoaki
+    Initials: T
+    LastName: Hishida
+-   ForeName: Chan-Jung
+    Initials: CJ
+    LastName: Chang
+-   ForeName: Concepcion Rodriguez
+    Initials: CR
+    LastName: Esteban
+-   ForeName: John
+    Initials: J
+    LastName: Young
+-   ForeName: Juan Carlos
+    Initials: JC
+    LastName: Izpisua Belmonte
+Journal: Nature communications
+Title: Use of the CRISPR/Cas9 system as an intracellular defense against HIV-1 infection
+    in human cells.
+pub_date:
+    Day: 18
+    Month: 2
+    Year: 2016

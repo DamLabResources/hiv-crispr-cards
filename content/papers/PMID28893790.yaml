@@ -1,0 +1,36 @@
+Abstract: 'Many potent antiviral drugs have been developed against HIV-1, and their
+    combined action is usually successful in achieving durable virus suppression in
+    infected individuals. This success is based on two effects: additive or even synergistic
+    virus inhibition and an increase in the genetic threshold for development of drug
+    resistance. More recently, several genetic approaches have been developed to attack
+    the HIV-1 genome in a gene therapy setting. We set out to test the combinatorial
+    possibilities for a therapy based on the CRISPR-Cas9 and RNA interference (RNAi)
+    mechanisms that attack the viral DNA and RNA, respectively. When two different
+    sites in the HIV-1 genome were targeted, either with dual CRISPR-Cas9 antivirals
+    or with a combination of CRISPR-Cas9 and RNAi antivirals, we observed additive
+    inhibition, much like what was reported for antiviral drugs. However, when the
+    same or overlapping viral sequence was attacked by the antivirals, rapid escape
+    from a CRISPR-Cas9 antiviral, assisted by the error-prone nonhomologous end joining
+    (NHEJ) DNA repair machinery, accelerated the development of cross-resistance to
+    the other CRISPR-Cas9 or RNAi antiviral. Thus, genetic antiviral approaches can
+    be combined, but overlap should be avoided.'
+AuthorList:
+-   ForeName: Na
+    Initials: N
+    LastName: Zhao
+-   ForeName: Gang
+    Initials: G
+    LastName: Wang
+-   ForeName: Atze T
+    Initials: AT
+    LastName: Das
+-   ForeName: Ben
+    Initials: B
+    LastName: Berkhout
+Journal: Antimicrobial agents and chemotherapy
+Title: Combinatorial CRISPR-Cas9 and RNA Interference Attack on HIV-1 DNA and RNA
+    Can Lead to Cross-Resistance.
+pub_date:
+    Day: 3
+    Month: 7
+    Year: 2018

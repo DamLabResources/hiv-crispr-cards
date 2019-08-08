@@ -1,0 +1,38 @@
+Abstract: "The CRISPR/Cas9 system provides a novel and promising tool for editing\
+    \ the HIV-1 proviral genome. We designed RNA-guided CRISPR/Cas9 targeting the\
+    \ HIV-1 regulatory genes tat and rev with guide RNAs (gRNA) selected from each\
+    \ gene based on CRISPR specificity and sequence conservation across six major\
+    \ HIV-1 subtypes. Each gRNA was cloned into lentiCRISPRv2 before co-transfection\
+    \ to create a lentiviral vector and transduction into target cells. CRISPR/Cas9\
+    \ transduction into 293\u2009T and HeLa cells stably expressing Tat and Rev proteins\
+    \ successfully abolished the expression of each protein relative to that in non-transduced\
+    \ and gRNA-absent vector-transduced cells. Tat functional assays showed significantly\
+    \ reduced HIV-1 promoter-driven luciferase expression after tat-CRISPR transduction,\
+    \ while Rev functional assays revealed abolished gp120 expression after rev-CRISPR\
+    \ transduction. The target gene was mutated at the Cas9 cleavage site with high\
+    \ frequency and various indel mutations. Conversely, no mutations were detected\
+    \ at off-target sites and Cas9 expression had no effect on cell viability. CRISPR/Cas9\
+    \ was further tested in persistently and latently HIV-1-infected T-cell lines,\
+    \ in which p24 levels were significantly suppressed even after cytokine reactivation,\
+    \ and multiplexing all six gRNAs further increased efficiency. Thus, the CRISPR/Cas9\
+    \ system targeting HIV-1 regulatory genes may serve as a favorable means to achieve\
+    \ functional cures."
+AuthorList:
+-   ForeName: Youdiil
+    Identifier: http://orcid.org/0000-0001-9443-1538
+    Initials: Y
+    LastName: Ophinni
+-   ForeName: Mari
+    Initials: M
+    LastName: Inoue
+-   ForeName: Tomohiro
+    Initials: T
+    LastName: Kotaki
+-   ForeName: Masanori
+    Identifier: http://orcid.org/0000-0001-5525-9915
+    Initials: M
+    LastName: Kameoka
+Journal: Scientific reports
+Title: CRISPR/Cas9 system targeting regulatory genes of HIV-1 inhibits viral replication
+    in infected T-cell cultures.
+pub_date: {}

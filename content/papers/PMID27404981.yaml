@@ -1,0 +1,30 @@
+Abstract: CRISPR/Cas9 genome editing has been proposed as a therapeutic treatment
+    for HIV-1 infection. CRISPR/Cas9 induced double strand breaks (DSBs) targeted
+    to the integrated viral genome have been shown to decrease production of progeny
+    virus. Unfortunately HIV-1 evolves rapidly and may readily produce CRISPR/Cas9
+    resistant strains. Here we used next-generation sequencing to characterize HIV-1
+    strains that developed resistance to six different CRISPR/Cas9 guide RNAs (gRNAs).
+    Reverse transcriptase (RT) derived base substitution mutations were commonly found
+    at sites encoding unpaired bases of RNA stem-loop structures. In addition to RT
+    mutations, insertion and/or deletion (indel) mutations were common. Indels localized
+    to the CRISPR/Cas9 cleavage site were major contributors to CRISPR gRNA resistance.
+    While most indels at non-coding regions were a single base pair, 3 base pair indels
+    were observed when a coding region of HIV-1 was targeted. The DSB repair event
+    may preserve the HIV-1 reading frame, while destroying CRISPR gRNA homology. HIV-1
+    may be successfully edited by CRISPR/Cas9, but the virus remains competent for
+    replication and resistant to further CRISPR/Cas9 targeting at that site. These
+    observations strongly suggest that host DSB repair at CRISPR/Cas9 cleavage sites
+    is a novel and important pathway that may contribute to HIV-1 therapeutic resistance.
+AuthorList:
+-   ForeName: Kristine E
+    Initials: KE
+    LastName: Yoder
+-   ForeName: Ralf
+    Initials: R
+    LastName: Bundschuh
+Journal: Scientific reports
+Title: Host Double Strand Break Repair Generates HIV-1 Strains Resistant to CRISPR/Cas9.
+pub_date:
+    Day: 1
+    Month: 6
+    Year: 2018

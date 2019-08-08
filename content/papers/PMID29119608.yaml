@@ -1,0 +1,60 @@
+Abstract: Astrocytes, the most abundant cells in the mammalian brain, perform key
+    functions and are involved in several neurodegenerative diseases. The human immunodeficiency
+    virus (HIV) can persist in astrocytes, contributing to the HIV burden and neurological
+    dysfunctions in infected individuals. While a comprehensive approach to HIV cure
+    must include the targeting of HIV-1 in astrocytes, dedicated tools for this purpose
+    are still lacking. Here we report a novel Adeno-associated virus-based vector
+    (AAV9P1) with a synthetic surface peptide for transduction of astrocytes. Analysis
+    of AAV9P1 transduction efficiencies with single brain cell populations, including
+    primary human brain cells, as well as human brain organoids demonstrated that
+    AAV9P1 targeted terminally differentiated human astrocytes much more efficiently
+    than neurons. We then investigated whether AAV9P1 can be used to deliver HIV-inhibitory
+    genes to astrocytes. To this end we generated AAV9P1 vectors containing genes
+    for HIV-1 proviral editing by CRISPR/Cas9. Latently HIV-1 infected astrocytes
+    transduced with these vectors showed significantly diminished reactivation of
+    proviruses, compared with untransduced cultures. Sequence analysis identified
+    mutations/deletions in key HIV-1 transcriptional control regions. We conclude
+    that AAV9P1 is a promising tool for gene delivery to astrocytes and may facilitate
+    inactivation/destruction of persisting HIV-1 proviruses in astrocyte reservoirs.
+AuthorList:
+-   ForeName: Christine
+    Initials: C
+    LastName: Kunze
+-   ForeName: Kathleen
+    Initials: K
+    LastName: "B\xF6rner"
+-   ForeName: Eike
+    Initials: E
+    LastName: Kienle
+-   ForeName: Tanja
+    Initials: T
+    LastName: Orschmann
+-   ForeName: Ejona
+    Initials: E
+    LastName: Rusha
+-   ForeName: Martha
+    Initials: M
+    LastName: Schneider
+-   ForeName: Milena
+    Initials: M
+    LastName: Radivojkov-Blagojevic
+-   ForeName: Micha
+    Initials: M
+    LastName: Drukker
+-   ForeName: Sabrina
+    Initials: S
+    LastName: Desbordes
+-   ForeName: Dirk
+    Initials: D
+    LastName: Grimm
+-   ForeName: Ruth
+    Identifier: 0000-0002-8651-9318
+    Initials: R
+    LastName: Brack-Werner
+Journal: Glia
+Title: Synthetic AAV/CRISPR vectors for blocking HIV-1 expression in persistently
+    infected astrocytes.
+pub_date:
+    Day: 18
+    Month: 7
+    Year: 2018

@@ -1,0 +1,30 @@
+Abstract: 'Several recent studies demonstrated that the clustered regularly interspaced
+    short palindromic repeats (CRISPR)-associated endonuclease Cas9 can be used for
+    guide RNA (gRNA)-directed, sequence-specific cleavage of HIV proviral DNA in infected
+    cells. We here demonstrate profound inhibition of HIV-1 replication by harnessing
+    T cells with Cas9 and antiviral gRNAs. However, the virus rapidly and consistently
+    escaped from this inhibition. Sequencing of the HIV-1 escape variants revealed
+    nucleotide insertions, deletions, and substitutions around the Cas9/gRNA cleavage
+    site that are typical for DNA repair by the nonhomologous end-joining pathway.
+    We thus demonstrate the potency of CRISPR-Cas9 as an antiviral approach, but any
+    therapeutic strategy should consider the viral escape implications. '
+AuthorList:
+-   ForeName: Gang
+    Initials: G
+    LastName: Wang
+-   ForeName: Na
+    Initials: N
+    LastName: Zhao
+-   ForeName: Ben
+    Initials: B
+    LastName: Berkhout
+-   ForeName: Atze T
+    Initials: AT
+    LastName: Das
+Journal: 'Molecular therapy : the journal of the American Society of Gene Therapy'
+Title: CRISPR-Cas9 Can Inhibit HIV-1 Replication but NHEJ Repair Facilitates Virus
+    Escape.
+pub_date:
+    Day: 13
+    Month: 12
+    Year: 2016

@@ -1,0 +1,32 @@
+Abstract: 'DNA editing using CRISPR/Cas has emerged as a potential treatment for diseases
+    caused by pathogenic human DNA viruses. One potential target is HIV-1, which replicates
+    via a chromosomally integrated DNA provirus. While CRISPR/Cas can protect T cells
+    from de novo HIV-1 infection, HIV-1 frequently becomes resistant due to mutations
+    in the chosen single guide RNA (sgRNA) target site. To address this problem, we
+    asked whether an sgRNA targeted to a conserved, functionally critical HIV-1 sequence
+    might prevent the selection of escape mutants. We report that two sgRNAs specific
+    for the HIV-1 transactivation response (TAR) element produce opposite results:
+    the TAR2 sgRNA rapidly selects for mutants that retain TAR function, but are no
+    longer inhibited by Cas9, while the TAR1 sgRNA fails to select any replication
+    competent TAR mutants, most probably because it is targeted to a region of TAR
+    that is disrupted by even minor mutations.'
+AuthorList:
+-   ForeName: Adam L
+    Initials: AL
+    LastName: Mefferd
+-   ForeName: Hal P
+    Initials: HP
+    LastName: Bogerd
+-   ForeName: Ishak D
+    Initials: ID
+    LastName: Irwan
+-   ForeName: Bryan R
+    Initials: BR
+    LastName: Cullen
+Journal: Virology
+Title: Insights into the mechanisms underlying the inactivation of HIV-1 proviruses
+    by CRISPR/Cas.
+pub_date:
+    Day: 10
+    Month: 7
+    Year: 2018

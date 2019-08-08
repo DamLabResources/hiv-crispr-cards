@@ -1,0 +1,32 @@
+Abstract: 'Even though highly active anti-retroviral therapy is able to keep HIV-1
+    replication under control, the virus can lie in a dormant state within the host
+    genome, known as a latent reservoir, and poses a threat to re-emerge at any time.
+    However, novel technologies aimed at disrupting HIV-1 provirus may be capable
+    of eradicating viral genomes from infected individuals. In this study, we showed
+    the potential of the CRISPR/Cas9 system to edit the HIV-1 genome and block its
+    expression. When LTR-targeting CRISPR/Cas9 components were transfected into HIV-1
+    LTR expression-dormant and -inducible T cells, a significant loss of LTR-driven
+    expression was observed after stimulation. Sequence analysis confirmed that this
+    CRISPR/Cas9 system efficiently cleaved and mutated LTR target sites. More importantly,
+    this system was also able to remove internal viral genes from the host cell chromosome.
+    Our results suggest that the CRISPR/Cas9 system may be a useful tool for curing
+    HIV-1 infection. '
+AuthorList:
+-   ForeName: Hirotaka
+    Initials: H
+    LastName: Ebina
+-   ForeName: Naoko
+    Initials: N
+    LastName: Misawa
+-   ForeName: Yuka
+    Initials: Y
+    LastName: Kanemura
+-   ForeName: Yoshio
+    Initials: Y
+    LastName: Koyanagi
+Journal: Scientific reports
+Title: Harnessing the CRISPR/Cas9 system to disrupt latent HIV-1 provirus.
+pub_date:
+    Day: 14
+    Month: 2
+    Year: 2014

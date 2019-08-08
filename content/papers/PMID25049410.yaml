@@ -1,0 +1,58 @@
+Abstract: 'AIDS remains incurable due to the permanent integration of HIV-1 into the
+    host genome, imparting risk of viral reactivation even after antiretroviral therapy.
+    New strategies are needed to ablate the viral genome from latently infected cells,
+    because current methods are too inefficient and prone to adverse off-target effects.
+    To eliminate the integrated HIV-1 genome, we used the Cas9/guide RNA (gRNA) system,
+    in single and multiplex configurations. We identified highly specific targets
+    within the HIV-1 LTR U3 region that were efficiently edited by Cas9/gRNA, inactivating
+    viral gene expression and replication in latently infected microglial, promonocytic,
+    and T cells. Cas9/gRNAs caused neither genotoxicity nor off-target editing to
+    the host cells, and completely excised a 9,709-bp fragment of integrated proviral
+    DNA that spanned from its 5'' to 3'' LTRs. Furthermore, the presence of multiplex
+    gRNAs within Cas9-expressing cells prevented HIV-1 infection. Our results suggest
+    that Cas9/gRNA can be engineered to provide a specific, efficacious prophylactic
+    and therapeutic approach against AIDS. '
+AuthorList:
+-   ForeName: Wenhui
+    Initials: W
+    LastName: Hu
+-   ForeName: Rafal
+    Initials: R
+    LastName: Kaminski
+-   ForeName: Fan
+    Initials: F
+    LastName: Yang
+-   ForeName: Yonggang
+    Initials: Y
+    LastName: Zhang
+-   ForeName: Laura
+    Initials: L
+    LastName: Cosentino
+-   ForeName: Fang
+    Initials: F
+    LastName: Li
+-   ForeName: Biao
+    Initials: B
+    LastName: Luo
+-   ForeName: David
+    Initials: D
+    LastName: Alvarez-Carbonell
+-   ForeName: Yoelvis
+    Initials: Y
+    LastName: Garcia-Mesa
+-   ForeName: Jonathan
+    Initials: J
+    LastName: Karn
+-   ForeName: Xianming
+    Initials: X
+    LastName: Mo
+-   ForeName: Kamel
+    Initials: K
+    LastName: Khalili
+Journal: Proceedings of the National Academy of Sciences of the United States of America
+Title: RNA-directed gene editing specifically eradicates latent and prevents new HIV-1
+    infection.
+pub_date:
+    Day: 3
+    Month: 10
+    Year: 2014
