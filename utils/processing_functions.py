@@ -27,13 +27,13 @@ def process_pmid(pmid):
 
     journal = next(root.iter('Journal'))
     try:
-        pub_info['Journal'] = next(journal.iter('Title')).text
-        pub_info['Title'] = next(root.iter('ArticleTitle')).text
-        pub_info['Abstract'] = next(root.iter('AbstractText')).text
+        pub_info['journal'] = next(journal.iter('Title')).text
+        pub_info['title'] = next(root.iter('ArticleTitle')).text
+        pub_info['abstract'] = next(root.iter('AbstractText')).text
     except StopIteration:
         print('Missing title info for PMID:%i' % pmid)
 
-    pub_info['AuthorList'] = []
+    pub_info['authorlist'] = []
 
     try:
         authors = next(root.iter('AuthorList'))
@@ -43,10 +43,11 @@ def process_pmid(pmid):
 
     if authors is not None:
         for author in authors.iter('Author'):
-            pub_info['AuthorList'].append({})
+            pub_info['authorlist'].append({})
             for nm in author:
                 if nm.tag != 'AffiliationInfo':
-                    pub_info['AuthorList'][-1][nm.tag] = nm.text
+                    pub_info['authorlist'][-1][nm.tag] = nm.text
+        pub_info['authorlistsimple'] = ', '.join([ath['LastName'] for ath in pub_info['authorlist']])
 
     return pub_info
 

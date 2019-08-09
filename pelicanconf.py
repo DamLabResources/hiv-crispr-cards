@@ -1,12 +1,14 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+from utils import pelican_yaml_reader
 
 AUTHOR = 'Will Dampier'
 SITENAME = 'HIV CRISPR Cards'
 SITEURL = 'https://damlabresources.github.io/hiv-crispr-cards/'
 THEME_STATIC_DIR = 'theme'
 CSS_FILE = 'main.css'
+AUTORELOAD_IGNORE_CACHE = True
 
 TAGS_SAVE_AS = ''
 TAG_SAVE_AS = ''
@@ -19,9 +21,10 @@ TIMEZONE = 'America/New_York'
 
 DEFAULT_LANG = 'en'
 
-TEMPLATE_PAGES = {'guide.html': 'docs/theme/templates/guide.html',
-                  }
+#TEMPLATE_PAGES = {'guide.html': 'docs/theme/templates/guide.html',
+#                  }
 
+PLUGINS = [pelican_yaml_reader]
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
