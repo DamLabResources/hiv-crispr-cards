@@ -1,4 +1,4 @@
-Abstract: "The CRISPR/Cas9 system provides a novel and promising tool for editing\
+abstract: "The CRISPR/Cas9 system provides a novel and promising tool for editing\
     \ the HIV-1 proviral genome. We designed RNA-guided CRISPR/Cas9 targeting the\
     \ HIV-1 regulatory genes tat and rev with guide RNAs (gRNA) selected from each\
     \ gene based on CRISPR specificity and sequence conservation across six major\
@@ -17,7 +17,7 @@ Abstract: "The CRISPR/Cas9 system provides a novel and promising tool for editin
     \ and multiplexing all six gRNAs further increased efficiency. Thus, the CRISPR/Cas9\
     \ system targeting HIV-1 regulatory genes may serve as a favorable means to achieve\
     \ functional cures."
-AuthorList:
+authorlist:
 -   ForeName: Youdiil
     Identifier: http://orcid.org/0000-0001-9443-1538
     Initials: Y
@@ -32,7 +32,8 @@ AuthorList:
     Identifier: http://orcid.org/0000-0001-5525-9915
     Initials: M
     LastName: Kameoka
-Journal: Scientific reports
-Title: CRISPR/Cas9 system targeting regulatory genes of HIV-1 inhibits viral replication
-    in infected T-cell cultures.
+authorlistsimple: Ophinni, Inoue, Kotaki, Kameoka
+journal: Scientific reports
 pub_date: {}
+title: CRISPR/Cas9 system targeting regulatory genes of HIV-1 inhibits viral replication
+    in infected T-cell cultures.

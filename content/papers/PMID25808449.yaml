@@ -1,9 +1,9 @@
-Abstract: Highly active antiretroviral therapy (HAART) has transformed HIV-1 infection
+abstract: Highly active antiretroviral therapy (HAART) has transformed HIV-1 infection
     from a deadly disease to a manageable chronic illness, albeit does not provide
     a cure. The recently developed genome editing system called CRISPR/Cas9 offers
     a new tool to inactivate the integrated latent HIV-1 DNA and may serve as a new
     avenue toward cure.
-AuthorList:
+authorlist:
 -   ForeName: Weijun
     Initials: W
     LastName: Zhu
@@ -25,9 +25,10 @@ AuthorList:
 -   ForeName: Chen
     Initials: C
     LastName: Liang
-Journal: Retrovirology
-Title: The CRISPR/Cas9 system inactivates latent HIV-1 proviral DNA.
+authorlistsimple: Zhu, Lei, Le Duff, Li, Guo, Wainberg, Liang
+journal: Retrovirology
 pub_date:
     Day: 15
     Month: 12
     Year: 2015
+title: The CRISPR/Cas9 system inactivates latent HIV-1 proviral DNA.

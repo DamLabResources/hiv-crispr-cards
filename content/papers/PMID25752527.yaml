@@ -1,4 +1,4 @@
-Abstract: 'To combat hostile viruses, bacteria and archaea have evolved a unique antiviral
+abstract: 'To combat hostile viruses, bacteria and archaea have evolved a unique antiviral
     defense system composed of clustered regularly interspaced short palindromic repeats
     (CRISPRs), together with CRISPR-associated genes (Cas). The CRISPR/Cas9 system
     develops an adaptive immune resistance to foreign plasmids and viruses by creating
@@ -12,7 +12,7 @@ Abstract: 'To combat hostile viruses, bacteria and archaea have evolved a unique
     cell types and maintain their resistance to HIV-1 challenge. These results unveil
     the potential of the CRISPR/Cas9 system as a new therapeutic strategy against
     viral infections. '
-AuthorList:
+authorlist:
 -   ForeName: Hsin-Kai
     Initials: HK
     LastName: Liao
@@ -52,10 +52,12 @@ AuthorList:
 -   ForeName: Juan Carlos
     Initials: JC
     LastName: Izpisua Belmonte
-Journal: Nature communications
-Title: Use of the CRISPR/Cas9 system as an intracellular defense against HIV-1 infection
-    in human cells.
+authorlistsimple: Liao, Gu, Diaz, Marlett, Takahashi, Li, Suzuki, Xu, Hishida, Chang,
+    Esteban, Young, Izpisua Belmonte
+journal: Nature communications
 pub_date:
     Day: 18
     Month: 2
     Year: 2016
+title: Use of the CRISPR/Cas9 system as an intracellular defense against HIV-1 infection
+    in human cells.

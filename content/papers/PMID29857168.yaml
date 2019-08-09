@@ -1,4 +1,4 @@
-Abstract: 'DNA editing using CRISPR/Cas has emerged as a potential treatment for diseases
+abstract: 'DNA editing using CRISPR/Cas has emerged as a potential treatment for diseases
     caused by pathogenic human DNA viruses. One potential target is HIV-1, which replicates
     via a chromosomally integrated DNA provirus. While CRISPR/Cas can protect T cells
     from de novo HIV-1 infection, HIV-1 frequently becomes resistant due to mutations
@@ -10,7 +10,7 @@ Abstract: 'DNA editing using CRISPR/Cas has emerged as a potential treatment for
     longer inhibited by Cas9, while the TAR1 sgRNA fails to select any replication
     competent TAR mutants, most probably because it is targeted to a region of TAR
     that is disrupted by even minor mutations.'
-AuthorList:
+authorlist:
 -   ForeName: Adam L
     Initials: AL
     LastName: Mefferd
@@ -23,10 +23,11 @@ AuthorList:
 -   ForeName: Bryan R
     Initials: BR
     LastName: Cullen
-Journal: Virology
-Title: Insights into the mechanisms underlying the inactivation of HIV-1 proviruses
-    by CRISPR/Cas.
+authorlistsimple: Mefferd, Bogerd, Irwan, Cullen
+journal: Virology
 pub_date:
     Day: 10
     Month: 7
     Year: 2018
+title: Insights into the mechanisms underlying the inactivation of HIV-1 proviruses
+    by CRISPR/Cas.

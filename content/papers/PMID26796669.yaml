@@ -1,4 +1,4 @@
-Abstract: 'Several recent studies demonstrated that the clustered regularly interspaced
+abstract: 'Several recent studies demonstrated that the clustered regularly interspaced
     short palindromic repeats (CRISPR)-associated endonuclease Cas9 can be used for
     guide RNA (gRNA)-directed, sequence-specific cleavage of HIV proviral DNA in infected
     cells. We here demonstrate profound inhibition of HIV-1 replication by harnessing
@@ -8,7 +8,7 @@ Abstract: 'Several recent studies demonstrated that the clustered regularly inte
     site that are typical for DNA repair by the nonhomologous end-joining pathway.
     We thus demonstrate the potency of CRISPR-Cas9 as an antiviral approach, but any
     therapeutic strategy should consider the viral escape implications. '
-AuthorList:
+authorlist:
 -   ForeName: Gang
     Initials: G
     LastName: Wang
@@ -21,10 +21,11 @@ AuthorList:
 -   ForeName: Atze T
     Initials: AT
     LastName: Das
-Journal: 'Molecular therapy : the journal of the American Society of Gene Therapy'
-Title: CRISPR-Cas9 Can Inhibit HIV-1 Replication but NHEJ Repair Facilitates Virus
-    Escape.
+authorlistsimple: Wang, Zhao, Berkhout, Das
+journal: 'Molecular therapy : the journal of the American Society of Gene Therapy'
 pub_date:
     Day: 13
     Month: 12
     Year: 2016
+title: CRISPR-Cas9 Can Inhibit HIV-1 Replication but NHEJ Repair Facilitates Virus
+    Escape.

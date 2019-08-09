@@ -1,4 +1,4 @@
-Abstract: 'Many potent antiviral drugs have been developed against HIV-1, and their
+abstract: 'Many potent antiviral drugs have been developed against HIV-1, and their
     combined action is usually successful in achieving durable virus suppression in
     infected individuals. This success is based on two effects: additive or even synergistic
     virus inhibition and an increase in the genetic threshold for development of drug
@@ -14,7 +14,7 @@ Abstract: 'Many potent antiviral drugs have been developed against HIV-1, and th
     (NHEJ) DNA repair machinery, accelerated the development of cross-resistance to
     the other CRISPR-Cas9 or RNAi antiviral. Thus, genetic antiviral approaches can
     be combined, but overlap should be avoided.'
-AuthorList:
+authorlist:
 -   ForeName: Na
     Initials: N
     LastName: Zhao
@@ -27,10 +27,11 @@ AuthorList:
 -   ForeName: Ben
     Initials: B
     LastName: Berkhout
-Journal: Antimicrobial agents and chemotherapy
-Title: Combinatorial CRISPR-Cas9 and RNA Interference Attack on HIV-1 DNA and RNA
-    Can Lead to Cross-Resistance.
+authorlistsimple: Zhao, Wang, Das, Berkhout
+journal: Antimicrobial agents and chemotherapy
 pub_date:
     Day: 3
     Month: 7
     Year: 2018
+title: Combinatorial CRISPR-Cas9 and RNA Interference Attack on HIV-1 DNA and RNA
+    Can Lead to Cross-Resistance.

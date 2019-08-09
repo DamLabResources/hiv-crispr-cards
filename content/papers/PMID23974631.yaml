@@ -1,4 +1,4 @@
-Abstract: 'Even though highly active anti-retroviral therapy is able to keep HIV-1
+abstract: 'Even though highly active anti-retroviral therapy is able to keep HIV-1
     replication under control, the virus can lie in a dormant state within the host
     genome, known as a latent reservoir, and poses a threat to re-emerge at any time.
     However, novel technologies aimed at disrupting HIV-1 provirus may be capable
@@ -11,7 +11,7 @@ Abstract: 'Even though highly active anti-retroviral therapy is able to keep HIV
     this system was also able to remove internal viral genes from the host cell chromosome.
     Our results suggest that the CRISPR/Cas9 system may be a useful tool for curing
     HIV-1 infection. '
-AuthorList:
+authorlist:
 -   ForeName: Hirotaka
     Initials: H
     LastName: Ebina
@@ -24,9 +24,10 @@ AuthorList:
 -   ForeName: Yoshio
     Initials: Y
     LastName: Koyanagi
-Journal: Scientific reports
-Title: Harnessing the CRISPR/Cas9 system to disrupt latent HIV-1 provirus.
+authorlistsimple: Ebina, Misawa, Kanemura, Koyanagi
+journal: Scientific reports
 pub_date:
     Day: 14
     Month: 2
     Year: 2014
+title: Harnessing the CRISPR/Cas9 system to disrupt latent HIV-1 provirus.

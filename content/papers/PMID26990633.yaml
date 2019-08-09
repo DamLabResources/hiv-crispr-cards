@@ -1,10 +1,10 @@
-Abstract: There is an urgent need for the development of HIV-1 genome eradication
+abstract: There is an urgent need for the development of HIV-1 genome eradication
     strategies that lead to a permanent cure for HIV-1/AIDS. We previously reported
     that four guide RNAs (gRNAs) targeting HIV-1 long terminal repeats (LTR) effectively
     eradicated the entire HIV-1 genome. In this study, we sought to identify the best
     gRNAs targeting HIV-1 LTR and viral structural region and optimize gRNA pairing
     that can efficiently eradicate the HIV-1 genome.
-AuthorList:
+authorlist:
 -   ForeName: Chaoran
     Initials: C
     LastName: Yin
@@ -32,10 +32,11 @@ AuthorList:
 -   ForeName: Yonggang
     Initials: Y
     LastName: Zhang
-Journal: AIDS (London, England)
-Title: Functional screening of guide RNAs targeting the regulatory and structural
-    HIV-1 viral genome for a cure of AIDS.
+authorlistsimple: Yin, Zhang, Li, Yang, Putatunda, Young, Khalili, Hu, Zhang
+journal: AIDS (London, England)
 pub_date:
     Day: 22
     Month: 12
     Year: 2017
+title: Functional screening of guide RNAs targeting the regulatory and structural
+    HIV-1 viral genome for a cure of AIDS.

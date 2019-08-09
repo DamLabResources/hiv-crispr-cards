@@ -1,4 +1,4 @@
-Abstract: HIV presents one of the highest evolutionary rates ever detected and combination
+abstract: HIV presents one of the highest evolutionary rates ever detected and combination
     antiretroviral therapy is needed to overcome the plasticity of the virus population
     and control viral replication. Conventional treatments lack the ability to clear
     the latent reservoir, which remains the major obstacle towards a cure. Novel strategies,
@@ -11,7 +11,7 @@ Abstract: HIV presents one of the highest evolutionary rates ever detected and c
     and prevent viral escape. Our data shows that the accelerating effect of gene-editing
     on viral escape can be overcome and as such gene-editing may provide a future
     alternative for control of HIV-infection.
-AuthorList:
+authorlist:
 -   ForeName: Robert Jan
     Initials: RJ
     LastName: Lebbink
@@ -33,10 +33,11 @@ AuthorList:
 -   ForeName: Monique
     Initials: M
     LastName: Nijhuis
-Journal: Scientific reports
-Title: A combinational CRISPR/Cas9 gene-editing approach can halt HIV replication
-    and prevent viral escape.
+authorlistsimple: Lebbink, de Jong, Wolters, Kruse, van Ham, Wiertz, Nijhuis
+journal: Scientific reports
 pub_date:
     Day: 26
     Month: 10
     Year: 2018
+title: A combinational CRISPR/Cas9 gene-editing approach can halt HIV replication
+    and prevent viral escape.

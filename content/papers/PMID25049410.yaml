@@ -1,4 +1,4 @@
-Abstract: 'AIDS remains incurable due to the permanent integration of HIV-1 into the
+abstract: 'AIDS remains incurable due to the permanent integration of HIV-1 into the
     host genome, imparting risk of viral reactivation even after antiretroviral therapy.
     New strategies are needed to ablate the viral genome from latently infected cells,
     because current methods are too inefficient and prone to adverse off-target effects.
@@ -12,7 +12,7 @@ Abstract: 'AIDS remains incurable due to the permanent integration of HIV-1 into
     gRNAs within Cas9-expressing cells prevented HIV-1 infection. Our results suggest
     that Cas9/gRNA can be engineered to provide a specific, efficacious prophylactic
     and therapeutic approach against AIDS. '
-AuthorList:
+authorlist:
 -   ForeName: Wenhui
     Initials: W
     LastName: Hu
@@ -49,10 +49,12 @@ AuthorList:
 -   ForeName: Kamel
     Initials: K
     LastName: Khalili
-Journal: Proceedings of the National Academy of Sciences of the United States of America
-Title: RNA-directed gene editing specifically eradicates latent and prevents new HIV-1
-    infection.
+authorlistsimple: Hu, Kaminski, Yang, Zhang, Cosentino, Li, Luo, Alvarez-Carbonell,
+    Garcia-Mesa, Karn, Mo, Khalili
+journal: Proceedings of the National Academy of Sciences of the United States of America
 pub_date:
     Day: 3
     Month: 10
     Year: 2014
+title: RNA-directed gene editing specifically eradicates latent and prevents new HIV-1
+    infection.

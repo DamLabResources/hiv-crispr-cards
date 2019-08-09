@@ -1,4 +1,4 @@
-Abstract: CRISPR/Cas9 genome editing has been proposed as a therapeutic treatment
+abstract: CRISPR/Cas9 genome editing has been proposed as a therapeutic treatment
     for HIV-1 infection. CRISPR/Cas9 induced double strand breaks (DSBs) targeted
     to the integrated viral genome have been shown to decrease production of progeny
     virus. Unfortunately HIV-1 evolves rapidly and may readily produce CRISPR/Cas9
@@ -15,16 +15,17 @@ Abstract: CRISPR/Cas9 genome editing has been proposed as a therapeutic treatmen
     replication and resistant to further CRISPR/Cas9 targeting at that site. These
     observations strongly suggest that host DSB repair at CRISPR/Cas9 cleavage sites
     is a novel and important pathway that may contribute to HIV-1 therapeutic resistance.
-AuthorList:
+authorlist:
 -   ForeName: Kristine E
     Initials: KE
     LastName: Yoder
 -   ForeName: Ralf
     Initials: R
     LastName: Bundschuh
-Journal: Scientific reports
-Title: Host Double Strand Break Repair Generates HIV-1 Strains Resistant to CRISPR/Cas9.
+authorlistsimple: Yoder, Bundschuh
+journal: Scientific reports
 pub_date:
     Day: 1
     Month: 6
     Year: 2018
+title: Host Double Strand Break Repair Generates HIV-1 Strains Resistant to CRISPR/Cas9.

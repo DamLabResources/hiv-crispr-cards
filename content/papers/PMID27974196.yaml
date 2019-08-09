@@ -1,4 +1,4 @@
-Abstract: Current drug therapies effectively suppress HIV-1 replication but do not
+abstract: Current drug therapies effectively suppress HIV-1 replication but do not
     inactivate the provirus that persists in latent reservoirs. Recent studies have
     found that the guide RNA (gRNA)-directed CRISPR/Cas9 system can be used for sequence-specific
     attack on this proviral DNA. Although potent inhibition of virus replication was
@@ -11,7 +11,7 @@ Abstract: Current drug therapies effectively suppress HIV-1 replication but do n
     in sensitive co-cultures with unprotected cells, demonstrating complete virus
     inactivation. These results provide a proof-of-principle that HIV-1-infected cells
     can be functionally cured by dual-gRNA CRISPR/Cas9 treatment.
-AuthorList:
+authorlist:
 -   ForeName: Gang
     Initials: G
     LastName: Wang
@@ -24,10 +24,11 @@ AuthorList:
 -   ForeName: Atze T
     Initials: AT
     LastName: Das
-Journal: Cell reports
-Title: A Combinatorial CRISPR-Cas9 Attack on HIV-1 DNA Extinguishes All Infectious
-    Provirus in Infected T Cell Cultures.
+authorlistsimple: Wang, Zhao, Berkhout, Das
+journal: Cell reports
 pub_date:
     Day: 28
     Month: 11
     Year: 2017
+title: A Combinatorial CRISPR-Cas9 Attack on HIV-1 DNA Extinguishes All Infectious
+    Provirus in Infected T Cell Cultures.

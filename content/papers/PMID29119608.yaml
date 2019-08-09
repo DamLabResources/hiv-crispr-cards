@@ -1,4 +1,4 @@
-Abstract: Astrocytes, the most abundant cells in the mammalian brain, perform key
+abstract: Astrocytes, the most abundant cells in the mammalian brain, perform key
     functions and are involved in several neurodegenerative diseases. The human immunodeficiency
     virus (HIV) can persist in astrocytes, contributing to the HIV burden and neurological
     dysfunctions in infected individuals. While a comprehensive approach to HIV cure
@@ -16,7 +16,7 @@ Abstract: Astrocytes, the most abundant cells in the mammalian brain, perform ke
     mutations/deletions in key HIV-1 transcriptional control regions. We conclude
     that AAV9P1 is a promising tool for gene delivery to astrocytes and may facilitate
     inactivation/destruction of persisting HIV-1 proviruses in astrocyte reservoirs.
-AuthorList:
+authorlist:
 -   ForeName: Christine
     Initials: C
     LastName: Kunze
@@ -51,10 +51,12 @@ AuthorList:
     Identifier: 0000-0002-8651-9318
     Initials: R
     LastName: Brack-Werner
-Journal: Glia
-Title: Synthetic AAV/CRISPR vectors for blocking HIV-1 expression in persistently
-    infected astrocytes.
+authorlistsimple: "Kunze, B\xF6rner, Kienle, Orschmann, Rusha, Schneider, Radivojkov-Blagojevic,\
+    \ Drukker, Desbordes, Grimm, Brack-Werner"
+journal: Glia
 pub_date:
     Day: 18
     Month: 7
     Year: 2018
+title: Synthetic AAV/CRISPR vectors for blocking HIV-1 expression in persistently
+    infected astrocytes.

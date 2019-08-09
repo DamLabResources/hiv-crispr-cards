@@ -1,4 +1,4 @@
-Abstract: Cas9 cleaves specific DNA sequences with the assistance of a programmable
+abstract: Cas9 cleaves specific DNA sequences with the assistance of a programmable
     single guide RNA (sgRNA). Repairing this broken DNA by the cell's error-prone
     non-homologous end joining (NHEJ) machinery leads to insertions and deletions
     (indels) that often impair DNA function. Using HIV-1, we have now demonstrated
@@ -10,7 +10,7 @@ Abstract: Cas9 cleaves specific DNA sequences with the assistance of a programma
     target DNA sequences. This observation illustrates two opposite outcomes of Cas9/sgRNA
     action, i.e., inactivation of HIV-1 and acceleration of viral escape, thereby
     potentially limiting the use of Cas9/sgRNA in HIV-1 therapy.
-AuthorList:
+authorlist:
 -   ForeName: Zhen
     Initials: Z
     LastName: Wang
@@ -35,10 +35,11 @@ AuthorList:
 -   ForeName: Chen
     Initials: C
     LastName: Liang
-Journal: Cell reports
-Title: CRISPR/Cas9-Derived Mutations Both Inhibit HIV-1 Replication and Accelerate
-    Viral Escape.
+authorlistsimple: Wang, Pan, Gendron, Zhu, Guo, Cen, Wainberg, Liang
+journal: Cell reports
 pub_date:
     Day: 10
     Month: 1
     Year: 2017
+title: CRISPR/Cas9-Derived Mutations Both Inhibit HIV-1 Replication and Accelerate
+    Viral Escape.
